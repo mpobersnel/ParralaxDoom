@@ -1,3 +1,7 @@
+Instructions; download the contents of this repository to a folder in your gzdoom directory. 
+You can test the changes made by running;
+Gzdoom - file 'folder name'
+
 
 Parallax mapping for GZDoom
 ===========================
